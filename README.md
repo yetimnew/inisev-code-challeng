@@ -18,7 +18,6 @@ MUST:-
 
 ```bash
 git colon https://github.com/yetimnew/inisev-code-challeng.git
-composer install
 ```
 
 ```bash
