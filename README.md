@@ -17,7 +17,11 @@ MUST:-
 ## Installation
 
 ```bash
-git colone 
+git colon https://github.com/yetimnew/inisev-code-challeng.git
+composer install
+```
+
+```bash
 composer install
 ```
 
@@ -26,8 +30,11 @@ Setup environment
 ```bash
 cp .env.example .env
 ```
+Genetate Key
 
-
+```bash
+php artisan key:generate
+```
 ## Database Migration & Seed 
 Create Your database by the name of subscription
 
